@@ -1,14 +1,14 @@
 # SQL Server Scripts
 
-## Default Constraint
+## [Default Constraint](default_constraints_rename.sql)
 
 Update default constriants to a standard format. DF_\<Table Name>_\<Column Name>
 
-## Foreign Key
+## [Foreign Key](foreign_key_rename.sql)
   
 Update foreign constraints to a standard format. FK_\<child table>_\<parent table>_\<column>
 
-## PK/UK/Index
+## [PK/UK/Index](pk_uk_index_rename.sql)
 
 Update PK/UK/Index constraints to a standard format.
   
